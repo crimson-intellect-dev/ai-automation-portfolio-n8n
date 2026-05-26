@@ -1,0 +1,8 @@
+insurance_provider,accepted_status,plan_type,notes,last_updated,search_terms
+Delta Dental,Accepted,PPO,Most Delta Dental PPO plans are accepted. Patient should confirm exact plan before appointment.,2026-05-24,"delta, delta dental, delta ppo, delta dental ppo"
+MetLife Dental,Accepted,Employer Plan,Most employer-sponsored MetLife Dental plans are accepted.,2026-05-24,"metlife, metlife dental, metlife employer plan, metlife insurance"
+Cigna Dental,Limited,PPO/HMO,Some Cigna Dental plans are accepted. Patient should call the office to verify coverage.,2026-05-24,"cigna, cigna dental, cigna ppo, cigna hmo, cigna dental ppo, cigna dental hmo"
+Aetna Dental,Verify,PPO,Plan acceptance depends on the specific Aetna Dental policy. Office verification is required.,2026-05-24,"aetna, aetna dental, aetna ppo, aetna dental ppo"
+Guardian Dental,Accepted,PPO,Most Guardian Dental PPO plans are accepted.,2026-05-24,"guardian, guardian dental, guardian ppo, guardian dental ppo"
+UnitedHealthcare Dental,Limited,Employer Plan,Some UnitedHealthcare Dental plans are accepted depending on employer coverage.,2026-05-24,"unitedhealthcare, united healthcare, uhc, uhc dental, unitedhealthcare dental, united healthcare dental, employer plan"
+Medicaid,Not Accepted,Government Plan,The office does not currently accept Medicaid dental coverage.,2026-05-24,"medicaid, medi-cal, medi cal, medical, government plan, government insurance"
